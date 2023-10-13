@@ -1,3 +1,7 @@
+<p>
+  <img src="bdd.png" alt="base_donnees_large_echelle" align="center">
+</p>
+
 # BDLE
 
 Base de données large échelle
