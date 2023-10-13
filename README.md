@@ -1,5 +1,5 @@
 <p>
-  <img src="bdd.jpg" alt="base_donnees_large_echelle" align="center">
+  <img src="bdd.pg.jpg" alt="base_donnees_large_echelle" align="center">
 </p>
 
 # BDLE
